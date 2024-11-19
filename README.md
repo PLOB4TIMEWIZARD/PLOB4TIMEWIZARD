@@ -2,7 +2,9 @@
 
 
 
-Hello
+Hello my Name is Christian Thompson!
+I am currently working on a Computer Science degree.
+
 
 <!--
 **PLOB4TIMEWIZARD/PLOB4TIMEWIZARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,6 +3,8 @@
 
 
 Hello my Name is Christian Thompson!
+
+
 I am currently working on a Computer Science degree.
 
 
